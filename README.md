@@ -13,5 +13,5 @@ kuliah Sistem Informasi Perencanaan (SIP) 2026.
 - GitHub Pages
 ## Pembuat
 Nama: fito
-NIP : 24051874073
+NIM : 24051874073
 Program Studi: PWK, UNESA
